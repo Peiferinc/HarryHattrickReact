@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/HarryHattrickReact/static/css/main.073c9b0a.css",
-    "main.js": "/HarryHattrickReact/static/js/main.59ef2d61.js",
+    "main.js": "/HarryHattrickReact/static/js/main.cc3611e9.js",
     "static/js/787.84f34153.chunk.js": "/HarryHattrickReact/static/js/787.84f34153.chunk.js",
-    "static/media/heart.svg": "/HarryHattrickReact/static/media/heart.f52cc3000558c3485cb018d09bad9cd6.svg",
+    "static/media/temp.png": "/HarryHattrickReact/static/media/temp.06835103fe67c72900f6.png",
     "index.html": "/HarryHattrickReact/index.html",
     "main.073c9b0a.css.map": "/HarryHattrickReact/static/css/main.073c9b0a.css.map",
-    "main.59ef2d61.js.map": "/HarryHattrickReact/static/js/main.59ef2d61.js.map",
+    "main.cc3611e9.js.map": "/HarryHattrickReact/static/js/main.cc3611e9.js.map",
     "787.84f34153.chunk.js.map": "/HarryHattrickReact/static/js/787.84f34153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.59ef2d61.js"
+    "static/js/main.cc3611e9.js"
   ]
 }
